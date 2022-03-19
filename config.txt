@@ -1,0 +1,100 @@
+  578  ls
+  579  cd AMMI-git
+  580  ls
+  581  git status
+  582  git add e2e-demo
+  583  git status
+  584  cd
+  585  ls
+  586  cd Desktop
+  587  cd Documents
+  588  cd AMMI\ 
+  589  ls
+  590  mkdir clear
+  591  ls
+  592  git status
+  593  ls
+  594  cd Desktop
+  595  cd Documents
+  596  ls
+  597  cd AMMI\ 
+  598  ls
+  599  mkdir AMMI-Notes
+  600  ls
+  601  cd AMMI-Notes
+  602  ls
+  603  cd
+  604  ls
+  605  ls -a
+  606  vim .zshrc
+  607  source .zshrc
+  608  cd Desktop
+  609  ls
+  610  cd
+  611  vim .zshrc
+  612  source .zshrc
+  613  cd Desktop
+  614  ls
+  615  cd Documents
+  616  ls
+  617  cd
+  618  cd Desktop
+  619  cd Documents
+  620  cd Desktop
+  621  cd Documents
+  622  cd AMMI\ 
+  623  pwd
+  624  cd AMMI-Notes
+  625  ls
+  626  cd ..
+  627  git init
+  628  git status
+  629  ls
+  630  ll
+  631  ls -a
+  632  cd ..
+  633  ls
+  634  cd AMMI\ 
+  635  ls
+  636  ls -a
+  637  rm .git
+  638  cd .git
+  639  ls
+  640  cat HEAD
+  641  cd ..
+  642  rmdir .git
+  643  rm -r .git
+  644  git status
+  645  clear
+  646  cd AMMI-Notes
+  647  git status
+  648  clear
+  649  git init
+  650  git status
+  651  git add README.md
+  652  git config --global user.name "mm230"
+  653  git config --global user.email "mansourbarro.sow652@gmail.com"
+  654  git branch
+  655  git clone https://github.com/mm230/Git-Assignment.git
+  656  ls
+  657  cd Git-Assignment/
+  658  ls
+  659  git branch
+  660  pwd
+  661  cd ..
+  662  ls
+  663  git status
+  664  git add Git-Assignment/
+  665  git status
+  666  git git commit -m "Adding folder Git-assignment to the new repository AMMI-Notes"
+  667  git commit -m "Adding folder Git-assignment to the new repository AMMI-Notes"
+  668  git branch -M main
+  669  git remote add origin https://github.com/mm230/AMMI_Notes.git
+  670  git push -u origin main
+  671  git config --global user.name "mm230"
+  672  git config --global user.email "mansourbarro.sow652@gmail.com"
+  673  git remote add origin https://github.com/mm230/AMMI_Notes.git
+  674  git push -u origin main
+  675  git --graph --oneline
+  676  git log --graph --oneline
+  677  git log
